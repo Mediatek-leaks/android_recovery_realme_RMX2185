@@ -158,3 +158,5 @@ SHRP_FLASH := 1
 SHRP_REC := /dev/block/by-name/recovery
 # OFFICIAL
 SHRP_OFFICIAL := true
+# Recovery Theme
+SHRP_DARK := true
